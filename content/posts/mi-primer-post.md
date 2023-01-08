@@ -14,7 +14,7 @@ color = "" #color from the theme settings
 draft = false
 +++
 
-Me llamo Juan Pablo Mora y soy un apasionado de la informática. He montado este blog básicamente para aprender a usar Hugo como generador de blogs estáticos y para que me sirva como "repositorio" de cómo he ido consiguiendo diferentes cosas, ya que la mayoría de las veces recorro docenas de blogs y artículos que luego no recuerdo. 
+Me llamo Juan Pablo Mora y soy un apasionado de la informática. He montado este blog básicamente para aprender a usar [**Hugo**](https://gohugo.io/) como generador de blogs estáticos y para que me sirva como "repositorio" de cómo he ido consiguiendo diferentes cosas, ya que la mayoría de las veces recorro docenas de blogs y artículos que luego no recuerdo. 
 
 En este blog me gustaría hablar sobre:
   
