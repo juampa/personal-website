@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "es-es"
 theme = "terminal"
 paginate = 5
+defaultContentLanguage = 'es'
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -18,10 +19,10 @@ paginate = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -48,7 +49,7 @@ paginate = 5
     languageName = "Español"
     title = "Terminal"
     subtitle = "Un blog sencillo desarrollado en Hugo"
-    owner = ""
+    owner = "Juampa"
     keywords = ""
     copyright = ""
     menuMore = "Mas"
@@ -62,7 +63,7 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.es.menu]
-      [[languages.en.menu.main]]
+      [[languages.es.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"

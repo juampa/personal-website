@@ -1,10 +1,10 @@
 +++
 title = "Mi Primer Post"
 date = "2023-01-08T16:08:10+01:00"
-author = ""
+author = "Juampa"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
+tags = ["personal", "proyectos"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
