@@ -45,14 +45,14 @@ paginate = 5
 
 [languages]
   [languages.es]
-    languageName = "English"
+    languageName = "Español"
     title = "Terminal"
     subtitle = "Un blog sencillo desarrollado en Hugo"
     owner = ""
     keywords = ""
     copyright = ""
-    menuMore = "Ver más"
-    readMore = "Leer más"
+    menuMore = "Mas"
+    readMore = "Continuar"
     readOtherPosts = "Leer otros posts"
     missingContentMessage = "Página no encontrada..."
     missingBackButtonLabel = "Volver a la página principal"
