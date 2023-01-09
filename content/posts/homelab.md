@@ -107,5 +107,4 @@ Group 17:       [1022:15e3]     0c:00.6  Audio device                           
 
 {{< /code >}}
 
-{{ template "_internal/disqus.html" . }}
 
