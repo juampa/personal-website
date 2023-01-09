@@ -22,7 +22,7 @@ Desde la conexión de Internet:
 	Para usarlo como router neutro tuve que obtener las credenciales de la operadora. En aquel momento no las facilitaban, por lo que configurando un switch con un port mirroring fue fácil. Mi red interna está segmentada en tres categorías:
 
 	* 192.168.1.0/24: Red por defecto
-	* 192.168.2.0/24: Red IOT para dispositivos.
+	* 192.168.2.0/24: Red IOT para dispositivos (asociado a su propia red wifi).
 	* 192.168.3.0/24: Red homelab externa.
 	* 192.168.4.0/24: Red homelab interna (dentro del proxmox uso pfsense en esa red).
 
@@ -31,7 +31,7 @@ Desde la conexión de Internet:
 	Características:
 	* CPU: AMD Ryzen 5 5600G (6 cores / 12 hilos)
 	* Memoria: 32 Gigas.
-	* Wifi: conectada a la wifi por defecto.
+	* Wifi: conectada a la wifi del Unifi.
 	* Lan integrada: conectada al router a través de un PLC.
 	* Tarjeta Ethernet extra con otras dos bocas de red: uso una de las conexiones contra un switch, de tal forma que todo lo que conecte ahí está en la red homelab interna.
 	* Almacenamiento: 2 NVME de 500 Gigas y 2 discos de 8 Teras en configuración RAIDZ-1
