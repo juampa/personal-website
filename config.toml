@@ -67,7 +67,3 @@ disqusShortname = 'jpmora'
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.es.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
